@@ -1,0 +1,35 @@
+Tracking of Kuramoto oscillators with input saturation and applications in smart grids
+
+1. L. Scardovi M. Arcak and E. Sontag "Synchronization of interconnected systems with applications to biochemical networks: An input-output approach" IEEE Transactions on Automatic Control vol. 55 no. 6 pp. 1367-1379 june 2010.
+
+2. J. Sepulchre and A. Babloyantz "Controlling chaos in a network of oscillators" Physical Review E vol. 48 pp. 945-950 1993.
+
+3. E. Mallada and A. Tang "Distributed clock synchronization: Joint frequency and phase consensus" in Decision and Control and European Control Conference (CDC-ECC) 2011 50th IEEE Conference on 2011 pp. 6742-6747.
+
+4. Y. Kuramoto "Self-entrainment of a population of coupled nonlinear oscillators" in International Symposium on Mathematical Problems in Theoretical Physics ser. Lecture Notes in Physics H. Araki Ed. Springer Berlin Heidelberg 1975 vol. 39 pp. 420-422.
+
+5. N. Chopra and M. Spong "On exponential synchronization of kuramoto oscillators" IEEE Transactions on Automatic Control vol. 54 no. 2 pp. 353-357 feb. 2009.
+
+6. T. Chen X. Liu and W. Lu "Pinning complex networks by a single controller" IEEE Transactions on Circuits and Systems I: Regular Papers vol. 54 no. 6 pp. 1317-1326 June 2007.
+
+7. G. Filatrella A. Nielsen and N. Pedersen "Analysis of a power grid using a kuramoto-like model" The European Physical Journal B-Condensed Matter and Complex Systems vol. 61 no. 4 pp. 485-491 2008.
+
+8. F. Dörfler and F. Bullo "Synchronization and transient stability in power networks and nonuniform kuramoto oscillators" SIAM Journal on Control and Optimization vol. 50 no. 3 pp. 1616-1642 2012.
+
+9. D. Bakken A. Bose C. Hauser D. Whitehead and G. Zweigle "Smart generation and transmission with coherent real-time data" Proceedings of the IEEE vol. 99 no. 6 pp. 928-951 june 2011.
+
+10. H. Li and Z. Han "Synchronization of power networks without and with communication infrastructures" in Proceedings of the 2011 IEEE International Conference on Smart Grid Communications (SmartGridComm) oct. 2011 pp. 463-468.
+
+11. J. W. Simpson-Porco F. Dörfler and F. Bullo "Synchronization and power sharing for droop-controlled inverters in islanded microgrids" Automatica Nov. 2012 provisionally accepted.
+
+12. S. Monaco D. Normand-Cyrot and F. Tiefensee "Sampled-data stabilization; a pbc approach" IEEE Transactions on Automatic Control vol. 56 no. 4 pp. 907-912 2011.
+
+13. F. Dörfler and F. Bullo "Exploring synchronization in complex oscillator networks" in Proceedings of 51th IEEE Conference on Decision and Control (CDC) Maui HI USA Dec. 2012 pp. 7157-7170.
+
+14. R. Olfati-Saber J. Fax and R. Murray "Consensus and cooperation in networked multi-agent systems" Proceedings of the IEEE vol. 95 no. 1 pp. 215-233 2007.
+
+15. W. Ren and R. Beard "Consensus tracking with a reference state" in Distributed Consensus in Multi-vehicle Cooperative Control ser. Communications and Control Engineering. Springer London 2008 pp. 55-73.
+
+16. H. Zhang F. Lewis and Z. Qu "Lyapunov adaptive and optimal design techniques for cooperative systems on directed communication graphs" IEEE Transactions on Industrial Electronics vol. 59 no. 7 pp. 3026-3041 july 2012.
+
+17. W. El-Khattam Y. Hegazy and M. Salama "Investigating distributed generation systems performance using monte carlo simulation" IEEE Transactions on Power Systems vol. 21 no. 2 pp. 524-532 2006.

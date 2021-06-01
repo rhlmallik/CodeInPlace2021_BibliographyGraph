@@ -1,0 +1,91 @@
+Comparative Transient Stability Assessment of Droop and Dispatchable Virtual Oscillator Controlled Grid-Connected Inverters
+
+1. J. M. Guerrero J. C. Vasquez J. Matas L. G. de Vicuna and M. Castilla "Hierarchical control of droop-controlled ac and dc microgrids—A general approach toward standardization" IEEE Trans. Ind. Electron. vol. 58 no. 1 pp. 158-172 Jan. 2011.
+
+2. J. Rocabert A. Luna F. Blaabjerg and P. Rodriguez "Control of power converters in ac microgrids" IEEE Trans. Power Electron. vol. 27 no. 11 pp. 4734-4749 Nov. 2012.
+
+3. H. Beck and R. Hesse "Virtual synchronous machine" Proc. 9th Int. Conf. Elect. Power Qual. Utilisation pp. 1-6 Oct. 2007.
+
+4. H. Wu et al. "Small-signal modeling and parameters design for virtual synchronous generators" IEEE Trans. Ind. Electron. vol. 63 no. 7 pp. 4292-4303 Jul. 2016.
+
+5. B. Johnson M. Rodriguez M. Sinha and S. Dhople "Comparison of virtual oscillator and droop control" Proc. IEEE 18th Workshop Control Model. Power Electron. pp. 1-6 2017.
+
+6. H. Yu M. A. Awal H. Tu Y. Du S. Lukic and I. Husain "Passivity-oriented discrete-time voltage controller design for grid-forming inverters" Proc. IEEE Energy Convers. Congr. Expo. pp. 469-475 2019.
+
+7. S. D’Arco and J. A. Suul "Equivalence of virtual synchronous machines and frequency-droops for converter-based microgrids" IEEE Trans. Smart Grid vol. 5 no. 1 pp. 394-395 Jan. 2014.
+
+8. N. Pogaku M. Prodanovic and T. C. Green "Modeling analysis and testing of autonomous operation of an inverter-based microgrid" IEEE Trans. Power Electron. vol. 22 no. 2 pp. 613-625 Mar. 2007.
+
+9. S. V. Dhople B. B. Johnson and A. O. Hamadeh "Virtual oscillator control for voltage source inverters" Proc. 51st Annu. Allerton Conf. Commun. Control Comput. pp. 1359-1363 2013.
+
+10. S. V. Dhople B. B. Johnson F. Dorfler and A. O. Hamadeh "Synchronization of nonlinear circuits in dynamic electrical networks with general topologies" IEEE Trans. Circuits Syst. I Reg. Papers vol. 61 no. 9 pp. 2677-2690 Sep. 2014.
+
+11. B. B. Johnson S. V. Dhople A. O. Hamadeh and P. T. Krein "Synchronization of parallel single-phase inverters with virtual oscillator control" IEEE Trans. Power Electron. vol. 29 no. 11 pp. 6124-6138 Nov. 2014.
+
+12. B. B. Johnson M. Sinha N. G. Ainsworth F. Dorfler and S. V. Dhople "Synthesizing virtual oscillators to control islanded inverters" IEEE Trans. Power Electron. vol. 31 no. 8 pp. 6002-6015 Aug. 2016.
+
+13. M. Sinha F. Dorfler B. B. Johnson and S. V. Dhople "Uncovering droop control laws embedded within the nonlinear dynamics of Van der Pol oscillators" IEEE Trans. Control Netw. Syst. vol. 4 no. 2 pp. 347-358 Jun. 2017.
+
+14. M. Lu G.-S. Seo M. Sinha F. Rodriguez S. Dhople and B. Johnson "Adaptation of commercial current-controlled inverters for operation with virtual oscillator control" Proc. IEEE Appl. Power Electron. Conf. Expo. pp. 3427-3432 2019.
+
+15. D. Raisz T. T. Thai and A. Monti "Power control of virtual oscillator controlled inverters in grid-connected mode" IEEE Trans. Power Electron. vol. 34 no. 6 pp. 5916-5926 Jun. 2019.
+
+16. M. A. Awal H. Yu H. Tu S. M. Lukic and I. Husain "Hierarchical control for virtual oscillator based grid-connected and islanded microgrids" IEEE Trans. Power Electron. vol. 35 no. 1 pp. 988-1001 Jan. 2020.
+
+17. Z. Shi J. Li H. I. Nurdin and J. E. Fletcher "Comparison of virtual oscillator and droop controlled islanded three-phase microgrids" IEEE Trans. Energy Convers. vol. 34 no. 4 pp. 1769-1780 Dec. 2019.
+
+18. H. Yu M. A. Awal H. Tu Y. Du S. Lukic and I. Husain "A virtual impedance scheme for voltage harmonics suppression in virtual oscillator controlled islanded microgrids" Proc. IEEE Appl. Power Electron. Conf. Expo. pp. 609-615 2020.
+
+19. J. W. Simpson-Porco F. Dörfler and F. Bullo "Synchronization and power sharing for droop-controlled inverters in islanded microgrids" Automatica vol. 49 no. 9 pp. 2603-2611 2013.
+
+20. M. Colombino D. Gro J. Brouillon and F. Drfler "Global phase and magnitude synchronization of coupled oscillators with application to the control of grid-forming power inverters" IEEE Trans. Autom. Control vol. 64 no. 11 pp. 4496-4511 Nov. 2019.
+
+21. D. Gro M. Colombino J. Brouillon and F. Drfler "The effect of transmission-line dynamics on grid-forming dispatchable virtual oscillator control" IEEE Trans. Control Netw. Syst. vol. 6 no. 3 pp. 1148-1160 Sep. 2019.
+
+22. G. Seo M. Colombino I. Subotic B. Johnson D. Gro and F. Drfler "Dispatchable virtual oscillator control for decentralized inverter-dominated power systems: Analysis and experiments" Proc. IEEE Appl. Power Electron. Conf. Expo. pp. 561-566 2019.
+
+23. M. Lu S. Dutta V. Purba S. Dhople and B. Johnson "A grid-compatible virtual oscillator controller: Analysis and design" Proc. IEEE Energy Convers. Congr. Expo. pp. 2643-2649 Sep. 2019.
+
+24. M. A. Awal H. Yu I. Husain W. Yu and S. M. Lukic "Selective harmonic current rejection for virtual oscillator controlled grid-forming voltage source converters" IEEE Trans. Power Electron. vol. 35 no. 8 pp. 8805-8818 Aug. 2020.
+
+25. P. Kundur N. J. Balu and M. G. Lauby "Power System Stability and Control" New York NY USA:McGraw-Hill vol. 7 1994.
+
+26. J. Alipoor Y. Miura and T. Ise "Power system stabilization using virtual synchronous generator with alternating moment of inertia" IEEE J. Emerg. Sel. Topics Power Electron. vol. 3 no. 2 pp. 451-458 Jun. 2015.
+
+27. L. Xiong et al. "Static synchronous generator model: A new perspective to investigate dynamic characteristics and stability issues of grid-tied PWM inverter" IEEE Trans. Power Electron. vol. 31 no. 9 pp. 6264-6280 Sep. 2016.
+
+28. Z. Shuai C. Shen X. Liu Z. Li and Z. J. Shen "Transient angle stability of virtual synchronous generators using Lyapunovs direct method" IEEE Trans. Smart Grid vol. 10 no. 4 pp. 4648-4661 Jul. 2019.
+
+29. H. Wu and X. Wang "A mode-adaptive power-angle control method for transient stability enhancement of virtual synchronous generators" IEEE J. Emerg. Sel. Topics Power Electron. vol. 8 no. 2 pp. 1034-1049 Jun. 2020.
+
+30. H. Wu and X. Wang "Transient angle stability analysis of grid-connected converters with the first-order active power loop" Proc. IEEE Appl. Power Electron. Conf. Expo. pp. 3011-3016 2018.
+
+31. H. Wu and X. Wang "Design-oriented transient stability analysis of grid-connected converters with power synchronization control" IEEE Trans. Ind. Electron. vol. 66 no. 8 pp. 6473-6482 Aug. 2019.
+
+32. A. D. Paquette and D. M. Divan "Virtual impedance current limiting for inverters in microgrids with synchronous generators" IEEE Trans. Ind. Appl. vol. 51 no. 2 pp. 1630-1638 Mar./Apr. 2015.
+
+33. L. Huang H. Xin Z. Wang L. Zhang K. Wu and J. Hu "Transient stability analysis and control design of droop-controlled voltage source converters considering current limitation" IEEE Trans. Smart Grid vol. 10 no. 1 pp. 578-591 Jan. 2019.
+
+34. H. Xin L. Huang L. Zhang Z. Wang and J. Hu "Synchronous instability mechanism of PF droop-controlled voltage source converter caused by current saturation" IEEE Trans. Power Syst. vol. 31 no. 6 pp. 5206-5207 Nov. 2016.
+
+35. L. Zhang L. Harnefors and H. Nee "Power-synchronization control of grid-connected voltage-source converters" IEEE Trans. Power Syst. vol. 25 no. 2 pp. 809-820 May 2010.
+
+36. H. Wu and X. Wang "Design-oriented transient stability analysis of PLL-synchronized voltage-source converters" IEEE Trans. Power Electron. vol. 35 no. 4 pp. 3573-3589 Apr. 2020.
+
+37. M. G. Taul X. Wang P. Davari and F. Blaabjerg "An overview of assessment methods for synchronization stability of grid-connected converters under severe symmetrical grid faults" IEEE Trans. Power Electron. vol. 34 no. 10 pp. 9655-9670 Oct. 2019.
+
+38. D. Pan X. Wang F. Liu and R. Shi "Transient stability impact of reactive power control on grid-connected converters" Proc. IEEE Energy Convers. Congr. Expo. pp. 4311-4316 2019.
+
+39. D. Pan X. Wang F. Liu and R. Shi "Transient stability analysis of droop-controlled grid-connected converters with inertia emulating low-pass filters" Proc. IEEE Energy Convers. Congr. Expo. pp. 34-40 2019.
+
+40. D. Pan X. Wang F. Liu and R. Shi "Transient stability of voltage-source converters with grid-forming control: A design-oriented study" IEEE J. Emerg. Sel. Topics Power Electron. vol. 8 no. 2 pp. 1019-1033 Jun. 2020.
+
+41. S. H. Strogatz "Nonlinear Dynamics and Chaos: With Applications to Physics Biology Chemistry and Engineering" Boulder CO USA:Westview 2015.
+
+42. M. Sinha S. Dhople B. Johnson N. Ainsworth and F. Dörfler "Nonlinear supersets to droop control" Proc. IEEE 16th Workshop Control Model. Power Electron. pp. 1-6 2015.
+
+43. Q. Ye R. Mo and H. Li "Low-frequency resonance suppression of a dual-active-bridge dc/dc converter enabled dc microgrid" IEEE J. Emerg. Sel. Topics Power Electron. vol. 5 no. 3 pp. 982-994 Sep. 2017.
+
+44. H. Tu Y. Du H. Yu A. Dubey S. Lukic and G. Karsai "Resilient information architecture platform for the smart grid (RIAPS): A novel open-source platform for microgrid control" IEEE Trans. Ind. Electron..
+
+45. Y. Du H. Tu H. Yu and S. Lukic "Accurate consensus-based distributed averaging with variable time delay in support of distributed secondary control algorithms" IEEE Trans. Smart Grid vol. 11 no. 4 pp. 2918-2928 Jul. 2020.

@@ -1,0 +1,103 @@
+Synchronization of Parallel Single-Phase Inverters With Virtual Oscillator Control
+
+1. J.-F. Chen and C.-L. Chu "Combination voltage-controlled and current-controlled PWM inverters for UPS parallel operation" IEEE Trans. Power Electron. vol. 10 no. 5 pp. 547-558 Sep. 1995.
+
+2. Y. Xue L. Chang S. B. Kjaer J. Bordonau and T. Shimizu "Topologies of single-phase inverters for small distributed power generators: An overview" IEEE Trans. Power Electron. vol. 19 no. 5 pp. 1305-1314 Sep. 2004.
+
+3. Y. A. R. I. Mohamed and E. El-Saadany "Adaptive decentralized droop controller to preserve power sharing stability of paralleled inverters in distributed generation microgrids" IEEE Trans. Power Electron. vol. 23 no. 6 pp. 2806-2816 Nov. 2008.
+
+4. D. De and V. Ramanarayanan "Decentralized parallel operation of inverters sharing unbalanced and nonlinear loads" IEEE Trans. Power Electron. vol. 25 no. 12 pp. 3015-3025 Dec. 2010.
+
+5. B. Johnson A. Davoudi P. Chapman and P. Sauer "Microgrid dynamics characterization using the automated state model generation algorithm" Proc. IEEE Int. Symp. Circuits Syst. pp. 2758-2761 2010-Jun.
+
+6. B. Johnson A. Davoudi P. Chapman and P. Sauer "A unified dynamic characterization framework for microgrid systems" Electr. Power Compon. Syst. vol. 40 pp. 93-111 Nov. 2011.
+
+7. R. Bojoi L. Limongi D. Roiu and A. Tenconi "Enhanced power quality control strategy for single-phase inverters in distributed generation systems" IEEE Trans. Power Electron. vol. 26 no. 3 pp. 798-806 Mar. 2011.
+
+8. M. Borrega L. Marroyo R. Gonzalez J. Balda and J. Agorreta "Modeling and control of a master-slave PV inverter with N-paralleled inverters and three-phase three-limb inductors" IEEE Trans. Power Electron. vol. 28 no. 6 pp. 2842-2855 Jun. 2013.
+
+10. A. Bezzolato M. Carmeli L. Frosio G. Marchegiani and M. Mauri "Reduction of high frequency zero sequence harmonics in parallel connected PV-inverters" Proc. Eur. Conf. Power Electron. Appl. pp. 1-10 2011.
+
+11. K.-H. Kim and D.-S. Hyun "A high performance DSP voltage controller with PWM synchronization for parallel operation of UPS systems" Proc. Power Electron. Spec. Conf. pp. 1-7 2006.
+
+14. B. B. Johnson S. V. Dhople J. L. Cale A. O. Hamadeh and P. T. Krein "Oscillator-based inverter control for islanded three-phase microgrids" IEEE J. Photovolt. vol. 4 no. 1 pp. 387-395 Jan. 2014.
+
+15. M. Chandorkar D. Divan and R. Adapa "Control of parallel connected inverters in standalone ac supply systems" IEEE Trans. Ind. Appl. vol. 29 no. 1 pp. 136-143 Jan. 1993.
+
+16. R. Lasseter "Microgrids" Proc. IEEE Power Eng. Soc. Winter Meeting vol. 1 pp. 305-308 2002.
+
+17. M. Marwali J.-W. Jung and A. Keyhani "Control of distributed generation systems—Part II: Load sharing control" IEEE Trans. Power Electron. vol. 19 no. 6 pp. 1551-1561 Nov. 2004.
+
+18. P. Piagi and R. Lasseter "Autonomous control of microgrids" IEEE Power Eng. Soc. General Meeting vol. 1 pp. 1-8 2006-Jun.
+
+19. K. De Brabandere B. Bolsens J. Van den Keybus A. Woyte J. Driesen and R. Belmans "A voltage and frequency droop control method for parallel inverters" IEEE Trans. Power Electron. vol. 22 no. 4 pp. 1107-1115 Jul. 2007.
+
+20. J. Kim J. Guerrero P. Rodriguez R. Teodorescu and K. Nam "Mode adaptive droop control with virtual output impedances for an inverter-based flexible ac microgrid" IEEE Trans. Power Electron. vol. 26 no. 3 pp. 689-701 Mar. 2011.
+
+21. J. Rocabert A. Luna F. Blaabjerg and P. Rodriguez "Control of power converters in ac microgrids" IEEE Trans. Power Electron. vol. 27 no. 11 pp. 4734-4749 Nov. 2012.
+
+22. C.-T. Lee C.-C. Chu and P.-T. Cheng "A new droop control method for the autonomous operation of distributed energy resource interface converters" IEEE Trans. Power Electron. vol. 28 no. 4 pp. 1980-1993 Apr. 2013.
+
+23. J. Guerrero L. de Vicuna J. Matas M. Castilla and J. Miret "A wireless controller to enhance dynamic performance of parallel inverters in distributed generation systems" IEEE Trans. Power Electron. vol. 19 no. 5 pp. 1205-1213 Sep. 2004.
+
+24. J. Lopes C. Moreira and A. Madureira "Defining control strategies for microgrids islanded operation" IEEE Trans. Power Syst. vol. 21 no. 2 pp. 916-924 May 2006.
+
+25. N. Pogaku M. Prodanovic and T. C. Green "Modeling analysis and testing of autonomous operation of an inverter-based microgrid" IEEE Trans. Power Electron. vol. 22 no. 2 pp. 613-625 Mar. 2007.
+
+26. J. M. Guerrero J. C. Vasquez J. Matas L. G. de Vicuña and M. Castilla "Hierarchical control of droop-controlled ac and dc microgrids–A general approach toward standardization" IEEE Trans. Ind. Electron. vol. 58 no. 1 pp. 158-172 Jan. 2011.
+
+27. J. He and Y. W. Li "An enhanced microgrid load demand sharing strategy" IEEE Trans. Power Electron. vol. 27 no. 9 pp. 3984-3995 Sep. 2012.
+
+28. Q.-C. Zhong "Robust droop controller for accurate proportional load sharing among inverters operated in parallel" IEEE Trans. Ind. Electron. vol. 60 no. 4 pp. 1281-1290 Apr. 2013.
+
+29. Y. Kuramoto "Chemical Oscillations Waves and Turbulence" USA NY New York:Springer–Verlag 1984.
+
+30. D. C. Michaels E. P. Matyas and J. Jalife "Mechanisms of sinoatrial pacemaker synchronization—A new hypothesis" Circulat. Res. vol. 61 pp. 704-714 Nov. 1987.
+
+31. K. Wiesenfeld P. Colet and S. H. Strogatz "Frequency locking in Josephson arrays: Connection with the Kuramoto model" Phys. Rev. E vol. 57 pp. 1563-1569 Feb. 1998.
+
+32. S. H. Strogatz "Nonlinear Dynamics And Chaos: With Applications To Physics Biology Chemistry And Engineering". USA CO Boulder:Westview Press Jan. 2001.
+
+33. F. Dörfler and F. Bullo "Exploring synchronization in complex oscillator networks" Proc. IEEE Conf. Decision Control pp. 7157-7170 2012-Dec.
+
+34. F. Dörfler and F. Bullo "Synchronization and transient stability in power networks and non-uniform Kuramoto oscillators" SIAM J. Control Optim. vol. 50 pp. 1616-1642 Jun. 2012.
+
+35. J. W. Simpson-Porco F. Dörfler and F. Bullo "Synchronization and power sharing for droop-controlled inverters in islanded microgrids" Automatica vol. 49 no. 9 pp. 2603-2611 Sep. 2013.
+
+36. N. Ainsworth and S. Grijalva "A structure-preserving model and sufficient condition for frequency synchronization of lossless droop inverter-based AC networks" IEEE Trans. Power Syst. vol. 28 no. 4 pp. 4310-4319 Nov. 2013.
+
+38. A. Pogromsky and H. Nijmeijer "Cooperative oscillatory behavior of mutually coupled dynamical systems" IEEE Trans. Circuits Syst. I: Fundam. Theory Appl. vol. 48 no. 2 pp. 152-162 Feb. 2001.
+
+40. G.-B. Stan and R. Sepulchre "Analysis of interconnected oscillators by dissipativity theory" IEEE Trans. Autom. Control vol. 52 no. 2 pp. 256-270 Feb. 2007.
+
+41. M. Arcak "Passivity as a design tool for group coordination" IEEE Trans. Autom. Control vol. 52 no. 8 pp. 1380-1390 Aug. 2007.
+
+42. A. Dhawan A. Hamadeh and B. Ingalls "Designing synchronization protocols in networks of coupled nodes under uncertainty" Proc. Amer. Control Conf. pp. 4945-4950 2012-Jun.
+
+44. A. Hamadeh G.-B. Stan and J. Gonçalves "Constructive synchronization of networked feedback systems" Proc. IEEE Conf. Decision Control pp. 6710-6715 2010-Dec.
+
+45. H. Khalil "Nonlinear Systems" USA NJ Upper Saddle River:Prentice-Hall 2002.
+
+46. A. Van der Schaft "L2-Gain and Passivity Techniques in Nonlinear Control" U.K. London:Springer-Verlag 1996.
+
+47. M. Liserre F. Blaabjerg and A. Dell’Aquila "Step-by-step design procedure for a grid-connected three-phase PWM voltage source converter" Int. J. Electron. vol. 91 no. 8 pp. 445-460 2004.
+
+48. M. Liserre F. Blaabjerg and S. Hansen "Design and control of an LCL-filter-based three-phase active rectifier" IEEE Trans. Ind. Appl. vol. 41 no. 5 pp. 1281-1291 Sep. 2005.
+
+49. B. Parikshith and V. John "Higher order output filter design for grid connected power converters" Proc. Nat. Power Syst. Conf. vol. 1 pp. 614-619 2008-Dec.
+
+50. P. Channegowda and V. John "Filter optimization for grid interactive voltage source inverters" IEEE Trans. Ind. Electron. vol. 57 no. 12 pp. 4106-4114 Dec. 2010.
+
+51. R. Teodorescu M. Liserre and P. Rodrguez "Grid Converters for Photovoltaic and Wind Power Systems" U.K. West Sussex:Wiley 2011.
+
+52. Y. Tang P. C. Loh P. Wang F. H. Choo F. Gao and F. Blaabjerg "Generalized design of high performance shunt active power filter with output LCL filter" IEEE Trans. Ind. Electron. vol. 59 no. 3 pp. 1443-1452 Mar. 2012.
+
+53. L. B. Cremean and R. M. Murray "Stability analysis of interconnected nonlinear systems under matrix feedback" Proc. IEEE Conf. Decision Control vol. 3 pp. 3078-3083 2003-Dec.
+
+54. R. Olfati-Saber and R. M. Murray "Consensus problems in networks of agents with switching topology and time-delays" IEEE Trans. Autom. Control vol. 49 no. 9 pp. 1520-1533 Sep. 2004.
+
+55. C.-T. Pan and Y.-H. Liao "Modeling and control of circulating currents for parallel three-phase boost rectifiers with different load sharing" IEEE Trans. Ind. Electron. vol. 55 no. 7 pp. 2776-2785 Jul. 2008.
+
+56. A. Yazdani and R. Iravani "Voltage-Sourced Converters in Power Systems" USA NY New York:Wiley 2010.
+
+57. R. A. Horn and C. R. Johnson "Matrix Analysis" U.K. Cambridge:Cambridge Univ. Press 2013.

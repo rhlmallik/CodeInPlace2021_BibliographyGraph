@@ -1,0 +1,49 @@
+A grid-compatible virtual oscillator controller: Analysis and design
+
+1. M. C. Chandorkar D. M. Divan and R. Adapa "Control of parallel connected inverters in standalone AC supply systems" IEEE Transactions on Industry Applications vol. 29 pp. 136-143 Jan. 1993.
+
+2. N. Pogaku M. Prodanovic and T. C. Green "Modeling Analysis and Testing of Autonomous Operation of an Inverter-Based Microgrid" IEEE Transactions on Power Electronics vol. 22 pp. 613-625 Mar. 2007.
+
+3. Q.-C. Zhong "Robust droop controller for accurate proportional load sharing among inverters operated in parallel" IEEE Transactions on Industrial Electronics vol. 60 pp. 1281-1290 Apr. 2013.
+
+4. Q.-C. Zhong and G. Weiss "Synchronverters: Inverters that mimic synchronous generators" IEEE Transactions on Industrial Electronics vol. 58 pp. 1259-1267 Apr. 2011.
+
+5. T. Shintai Y. Miura and T. Ise "Oscillation damping of a distributed generator using a virtual synchronous generator" IEEE Transactions on Power Delivery vol. 29 pp. 668-676 Apr. 2014.
+
+6. J. Liu Y. Miura H. Bevrani and T. Ise "Enhanced virtual synchronous generator control for parallel inverters in microgrids" IEEE Transactions on Smart Grid vol. 8 pp. 2268-2277 Sep. 2017.
+
+7. L. A. Torres J. P. Hespanha and J. Moehlis "Synchronization of Identical Oscillators Coupled Through a Symmetric Network With Dynamics: A Constructive Approach With Applications to Parallel Operation of Inverters" IEEE Transactions on Automatic Control vol. 60 pp. 3226-3241 Dec. 2015.
+
+8. S. V. Dhople B. B. Johnson and A. O. Hamadeh "Virtual oscillator control for voltage source inverters" 2013 51st Annual Allerton Conference on Communication Control and Computing (Allerton) pp. 1359-1363 Oct. 2013.
+
+9. D. Raisz T. T. Thai and A. Monti "Power control of virtual oscillator controlled inverters in grid-connected mode" IEEE Transactions on Power Electronics vol. 34 pp. 5916-5926 Jun. 2019.
+
+10. B. B. Johnson S. V. Dhople A. O. Hamadeh and P. T. Krein "Synchronization of Nonlinear Oscillators in an LTI Electrical Power Network" IEEE Transactions on Circuits and Systems I: Regular Papers vol. 61 pp. 834-844 Mar. 2014.
+
+11. B. Johnson M. Sinha N. Ainsworth F. Dörfler and S. Dhople "Synthesizing Virtual Oscillators to Control Islanded Inverters" IEEE Transactions on Power Electronics vol. 31 pp. 6002-6015 Aug. 2016.
+
+12. M. Sinha F. Dörfler B. B. Johnson and S. V. Dhople "Uncovering Droop Control Laws Embedded Within the Nonlinear Dynamics of Van der Pol Oscillators" IEEE Transactions on Control of Network Systems vol. 4 pp. 347-358 Jun. 2017.
+
+13. Z. Shi J. Li H. Nurdin and J. E. Fletcher "Comparison of virtual oscillator and droop controlled islanded three-phase microgrids" IEEE Transactions on Energy Conversion pp. 1-1 2019.
+
+14. M. M. Siraj Khan Y. Lin B. Johnson M. Sinha and S. Dhople "Stability assessment of a system comprising a single machine and a virtual oscillator controlled inverter with scalable ratings" IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society pp. 4057-4062 Oct. 2018.
+
+15. M. Lu G. Seo M. Sinha F. Rodriguez S. Dhople and B. Johnson "Adaptation of commercial current-controlled inverters for operation with virtual oscillator control" 2019 IEEE Applied Power Electronics Conference and Exposition (APEC) pp. 3427-3432 Mar. 2019.
+
+16. M. Ali H. I. Nurdin and J. E. Fletcher "Simultaneous Regulation of Active and Reactive Output Power of Parallel-Connected Virtual Oscillator Controlled Inverters" IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society pp. 4051-4056 Oct. 2018.
+
+17. B. Johnson S. V. Dhople J. L. Cale A. O. Hamadeh and P. T. Krein "Oscillator-Based Inverter Control for Islanded Three-Phase Microgrids" IEEE Journal of Photovoltaics vol. 4 pp. 387-395 Jan. 2014.
+
+18. M. A. Awal H. Yu H. Tu S. Lukic and I. Husain "Hierarchical control for virtual oscillator based grid-connected and islanded microgrids" IEEE Transactions on Power Electronics pp. 1-1 2019.
+
+19. M. Ali H. I. Nurdin and J. E. Fletcher "Output power regulation of a virtual oscillator controlled inverter" 2018 IEEE 18th International Power Electronics and Motion Control Conference (PEMC) pp. 1085-1090 Aug. 2018.
+
+20. G. Seo M. Colombino I. Subotic B. Johnson D. Groß and F. Dörfler "Dispatchable virtual oscillator control for decentralized inverter-dominated power systems: Analysis and experiments" 2019 IEEE Applied Power Electronics Conference and Exposition (APEC) pp. 561-566 Mar. 2019.
+
+21. D. Groß M. Colombino J. Brouillon and F. Dörfler "The effect of transmission-line dynamics on grid-forming dispatchable virtual oscillator control" IEEE Transactions on Control of Network Systems pp. 1-1 2019.
+
+22. M. Colombino D. Gross J. Brouillon and F. Dörfler "Global phase and magnitude synchronization of coupled oscillators with application to the control of grid-forming power inverters" IEEE Transactions on Automatic Control pp. 1-1 2019.
+
+23. Y. A. Kuznetsov "Andronov-Hopf bifurcation" Scholarpedia vol. 1 no. 10 pp. 1858 2006.
+
+24. A. Yazdani and R. Iravani "Voltage-Sourced Converters in Power Systems" Hoboken NJ:John Wiley &amp; Sons Inc 2010.

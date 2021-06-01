@@ -1,0 +1,119 @@
+Global Phase and Magnitude Synchronization of Coupled Oscillators With Application to the Control of Grid-Forming Power Inverters
+
+1. Q.-C. Zhong and G. Weiss "Synchronverters: Inverters that mimic synchronous generators" IEEE Trans. Ind. Electron. vol. 58 no. 4 pp. 1259-1267 Apr. 2011.
+
+2. T. Jouini C. Arghir and F. Dörfler "Grid-friendly matching of synchronous machines by tapping into the DC storage" Proc. IFAC Workshop Distrib. Estimation Control Networked Syst. pp. 192-197 2016.
+
+3. S. D’Arco and J. A. Suul "Virtual synchronous machines—Classification of implementations and analysis of equivalence to droop controllers for microgrids" Proc. IEEE PowerTech 2013.
+
+4. F. Milano F. Dörfler G. Hug D. Hill and G. Verbic "Foundations and challenges of low-inertia systems" Proc. Power Syst. Comput. Conf. 2018.
+
+5. G. Denis T. Prevost P. Panciatici X. Kestelyn F. Colas and X. Guillaud "Review on potential strategies for transmission grid operations based on power electronics interfaced voltage sources" Proc. IEEE Power Energy Soc. Gen. Meeting 2015.
+
+6. H. Bevrani T. Ise and Y. Miura "Virtual synchronous generators: A survey and new perspectives" Int. J. Elect. Power Energy Syst. vol. 54 pp. 244-254 Jan. 2014.
+
+7. R. Sepulchre D. A. Paley and N. E. Leonard "Stabilization of planar collective motion: All-to-all communication" IEEE Trans. Autom. Control vol. 52 no. 5 pp. 811-824 May 2007.
+
+8. A. Jadbabaie J. Lin and A. S. Morse "Coordination of groups of mobile autonomous agents using nearest neighbor rules" IEEE Trans. Autom. Control vol. 48 no. 6 pp. 988-1001 Jun. 2003.
+
+9. F. Cucker and S. Smale "Emergent behavior in flocks" IEEE Trans. Autom. Control vol. 52 no. 5 pp. 852-862 May 2007.
+
+10. G.-B. Stan and R. Sepulchre "Analysis of interconnected oscillators by dissipativity theory" IEEE Trans. Autom. Control vol. 52 no. 2 pp. 256-270 Feb. 2007.
+
+11. S. H. Strogatz "From Kuramoto to Crawford: Exploring the onset of synchronization in populations of coupled oscillators" Phys. D Nonlinear Phenom. vol. 143 no. 1 pp. 1-20 2000.
+
+12. S. H. Strogatz et al. "Coupled oscillators and biological synchronization" Sci. Amer. vol. 269 no. 6 pp. 102-109 1993.
+
+13. F. T. Hioe D. MacMillen and E. W. Montroll "Quantum theory of anharmonic oscillators: Energy levels of a single and a pair of coupled oscillators with quartic coupling" Phys. Rep. vol. 43 no. 7 pp. 305-335 1978.
+
+14. G. Ford M. Kac and P. Mazur "Statistical mechanics of assemblies of coupled oscillators" J. Math. Phys. vol. 6 no. 4 pp. 504-515 1965.
+
+15. R. W. Beard J. Lawton and F. Y. Hadaegh "A coordination architecture for spacecraft formation control" IEEE Trans. Control Syst. Technol. vol. 9 no. 6 pp. 777-790 Nov. 2001.
+
+16. R. S. Smith and F. Y. Hadaegh "Closed-loop dynamics of cooperative vehicle formations with parallel estimators and communication" IEEE Trans. Autom. Control vol. 52 no. 8 pp. 1404-1414 Aug. 2007.
+
+17. M. C. Chandorkar D. M. Divan and R. Adapa "Control of parallel connected inverters in standalone AC supply systems" IEEE Trans. Ind. Appl. vol. 29 no. 1 pp. 136-143 Jan./Feb. 1993.
+
+18. J. M. Guerrero M. Chandorkar T.-L. Lee and P. Chiang Loh "Advanced control architectures for intelligent microgrids—Part I: Decentralized and hierarchical control" IEEE Trans. Ind. Electron. vol. 60 no. 4 pp. 1254-1262 Apr. 2013.
+
+19. J. W. Simpson-Porco F. Dörfler and F. Bullo "Synchronization and power sharing for droop-controlled inverters in islanded microgrids" Automatica vol. 49 no. 9 pp. 2603-2611 2013.
+
+20. F. Dörfler M. Chertkov and F. Bullo "Synchronization in complex oscillator networks and smart grids" Proc. Nat. Acad. Sci. vol. 110 no. 6 pp. 2005-2010 2013.
+
+21. F. Dörfler and F. Bullo "Synchronization and transient stability in power networks and nonuniform Kuramoto oscillators" SIAM J. Control Optim. vol. 50 no. 3 pp. 1616-1642 2012.
+
+22. B. B. Johnson S. V. Dhople A. O. Hamadeh and P. T. Krein "Synchronization of parallel single-phase inverters with virtual oscillator control" IEEE Trans. Power Electron. vol. 29 no. 11 pp. 6124-6138 Nov. 2014.
+
+23. B. B. Johnson M. Sinha N. G. Ainsworth F. Dörfler and S. V. Dhople "Synthesizing virtual oscillators to control islanded inverters" IEEE Trans. Power Electron. vol. 31 no. 8 pp. 6002-6015 Aug. 2016.
+
+24. M. Sinha F. Dörfler B. Johnson and S. Dhople "Uncovering droop control laws embedded within the nonlinear dynamics of van der pol oscillators" IEEE Trans. Control Netw. Syst. vol. 4 no. 2 pp. 347-358 Jun. 2017.
+
+25. M. Sinha F. Dörfler B. B. Johnson and S. V. Dhople "Synchronization of Liénard-type oscillators in uniform electrical networks" Proc. Amer. Control Conf. pp. 4311-4316 2016.
+
+26. L. Tôrres J. Hespanha and J. Moehlis "Power supply synchronization without communication" Proc. IEEE Power Energy Soc. General Meeting 2012.
+
+27. L. Tôrres J. Hespanha and J. Moehlis "Synchronization of identical oscillators coupled through a symmetric network with dynamics: A constructive approach with applications to parallel operation of inverters" IEEE Trans. Autom. Control vol. 60 no. 12 pp. 3226-3241 Dec. 2015.
+
+28. J. A. Fax and R. M. Murray "Information flow and cooperative control of vehicle formations" IEEE Trans. Autom. Control vol. 49 no. 9 pp. 1465-1476 Sep. 2004.
+
+29. W. Ren and R. W. Beard "Distributed Consensus in Multi-Vehicle Cooperative Control" London U.K.:Springer 2008.
+
+30. F. Lin M. Fardad and M. R. Jovanović "Algorithms for leader selection in stochastically forced consensus networks" IEEE Trans. Autom. Control vol. 59 no. 7 pp. 1789-1802 Jul. 2014.
+
+31. M. Colombino D. Groß and F. Dörfler "Global phase and voltage synchronization for power inverters: A decentralized consensus-inspired approach" Proc. IEEE Conf. Decis. Control pp. 5690-5695 2017.
+
+32. F. Bullo "Lectures on Network Systems" 2017 [online] Available: http://motion.me.ucsb.edu/book-lns.
+
+33. J. Lunze "Feedback Control of Large Scale Systems" Englewood Cliffs NJ USA:Prentice-Hall 1992.
+
+34. Y. Kuramoto "Self-entrainment of a population of coupled non-linear oscillators" Proc. Int. Symp. Math. Problems Theor. Phys. pp. 420-422 1975.
+
+35. J. A. Acebrón L. L. Bonilla C. J. P. Vicente F. Ritort and R. Spigler "The Kuramoto model: A simple paradigm for synchronization phenomena" Rev. Modern Phys. vol. 77 no. 1 pp. 137-185 2005.
+
+36. R. E. Mirollo and S. H. Strogatz "The spectrum of the locked state for the Kuramoto model of coupled oscillators" Phys. D Nonlinear Phenom. vol. 205 no. 1–4 pp. 249-266 2005.
+
+37. F. Dörfler and F. Bullo "Synchronization in complex oscillator networks: A survey" Automatica vol. 50 no. 6 pp. 1539-1564 2014.
+
+38. D. C. Roberts "Linear reformulation of the Kuramoto model of self-synchronizing coupled oscillators" Phys. Rev. E vol. 77 no. 3 2008.
+
+39. J. Zhu "Synchronization of Kuramoto model in a high-dimensional linear space" Phys. Lett. A vol. 377 no. 41 pp. 2939-2943 2013.
+
+40. E. Clarke "Circuit Analysis of AC Power Systems" New York NY USA:Wiley vol. 1 1943.
+
+41. V. Mariani F. Vasca J. C. Vásquez and J. M. Guerrero "Model order reductions for stability analysis of islanded microgrids with droop control" IEEE Trans. Ind. Electron. vol. 62 no. 7 pp. 4344-4354 Jul. 2015.
+
+42. P. Vorobev P. Huang M. A. Hosani J. L. Kirtley and K. Turitsyn "High-fidelity model order reduction for microgrids stability assessment" IEEE Trans. Power Syst. vol. 33 no. 1 pp. 874-887 Jan. 2018.
+
+43. H. K. Khalil "Nonlinear Systems" Englewood Cliffs NJ USA:Prentice-Hall 2002.
+
+44. D. Groß M. Colombino J.-S. Brouillon and F. Dörfler "The effect of transmission-line dynamics on grid-forming dispatchable virtual oscillator control" 2018.
+
+45. H. Akagi Y. Kanazawa K. Fujita and A. Nabae "Generalized theory of instantaneous reactive power and its application" Elect. Eng. Jpn. vol. 103 no. 4 pp. 58-66 1983.
+
+46. P. Kundur "Power System Stability and Control" New York NY USA:McGraw-Hill 1994.
+
+47. D. Groß and F. Dörfler "On the steady-state behavior of low-inertia power systems" Proc. IFAC World Congress pp. 11&nbsp;222-11&nbsp;228 2017.
+
+48. F. Capitanescu et al. "State-of-the-art challenges and future trends in security constrained optimal power flow" Elect. Power Syst. Res. vol. 81 no. 8 pp. 1731-1741 2011.
+
+49. E. Dall’Anese H. Zhu and G. B. Giannakis "Distributed optimal power flow for smart microgrids" IEEE Trans. Smart Grid vol. 4 no. 3 pp. 1464-1475 Sep. 2013.
+
+50. E. Dall’Anese and A. Simonetto "Optimal power flow pursuit" IEEE Trans. Smart Grid vol. 9 no. 2 pp. 942-952 Mar. 2018.
+
+51. Y. Tang K. Dvijotham and S. Low "Real-time optimal power flow" IEEE Trans. Smart Grid vol. 8 no. 6 pp. 2963-2973 Nov. 2017.
+
+52. A. Hauswirth A. Zanardi S. Bolognani F. Dörfler and G. Hug "Online optimization in closed loop on the power flow manifold" Proc. IEEE PowerTech pp. 1-6 2017.
+
+53. G. Seo M. Colombino I. Subotic B. Johnson D. Groß and F. Dörfler "Dispatchable virtual oscillator control for decentralized inverter-dominated power systems: Analysis and experiments" 2019.
+
+54. D. Angeli "An almost global notion of input-to-state stability" IEEE Trans. Autom. Control vol. 49 no. 6 pp. 866-874 Jun. 2004.
+
+55. W. Hahn "Stability of motion" Berlin Germany:Springer 1967.
+
+56. P. Monzón and R. Potrie "Local and global aspects of almost global stability" Proc. IEEE Conf. Decis. Control pp. 5120-5125 2006.
+
+57. M. Hirsch C. Pugh and M. Shub "Invariant Manifolds" Berlin Germany:Springer 1977.
+
+58. E. D. Sontag "A remark on the converging-input converging-state property" IEEE Trans. Autom. Control vol. 48 no. 2 pp. 313-314 Feb. 2003.
+
+59. F. Blanchini and S. Miani "Set Theoretic Methods in Control" Cambridge MA USA:Birkhäuser 2008.
